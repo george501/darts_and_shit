@@ -1,5 +1,5 @@
 # Страница Лизы и Гоши для дартса
-<img src="/img_cat.png"/>
+<img src="/darts_and_shit/img_cat.png"/>
 ## Лиза
 ### Февраль
 #### 3-6 февраля
