@@ -6,7 +6,7 @@
 
 <details>
  <summary>6 февраля</summary>
- 
+</br>
 **Большой раунд:**
 * x
 * x
