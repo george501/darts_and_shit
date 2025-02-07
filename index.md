@@ -4,8 +4,7 @@
 ### 3-9 февраля
 ##### Лиза
 
-<details>
- <summary>6 февраля</summary>
+<details> <summary>6 февраля</summary>
 </br>
 **Большой раунд:**
  * 10000
